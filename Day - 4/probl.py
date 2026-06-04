@@ -1,0 +1,10 @@
+sal=30000
+per=10
+hike=int(sal/per)
+tol=sal+hike
+print(tol)
+sal=50000
+per=20
+hike=int(sal/per)
+tol=sal+hike
+print(tol)
